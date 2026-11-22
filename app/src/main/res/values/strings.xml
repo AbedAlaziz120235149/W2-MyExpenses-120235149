@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مصاريفي</string>
+    <string name="category_name">اسم التصنيف</string>
+    <string name="monthly_budget">الميزانية الشهرية</string>
+    <string name="expense_title">وصف المصروف</string>
+    <string name="amount">المبلغ</string>
+    <string name="add">إضافة</string>
+    <string name="no_categories">لا توجد تصنيفات بعد</string>
+    <string name="no_expenses">لا توجد مصاريف في هذا التصنيف</string>
+</resources>
