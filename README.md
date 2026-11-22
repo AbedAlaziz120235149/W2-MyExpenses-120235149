@@ -51,9 +51,17 @@
 
 ## الصور
 
+شاشة التصنيفات (لاحظ أن «طعام» صار أحمر لأن مجموعه 57 تجاوز ميزانيته 50، والمجموع الكلي 122):
+
 ![شاشة التصنيفات](screenshots/categories.png)
 
-![جدول expenses في Database Inspector](screenshots/database.png)
+شاشة مصاريف تصنيف «طعام» مع وصف المصروف والمبلغ والتاريخ:
+
+![شاشة المصاريف](screenshots/expenses.png)
+
+جدول `expenses` كما هو محفوظ داخل قاعدة البيانات (نفس الصفوف التي أُضيفت من التطبيق):
+
+![جدول expenses](screenshots/database.png)
 
 ## طريقة التشغيل
 
