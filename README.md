@@ -63,6 +63,10 @@
 
 ![جدول expenses](screenshots/database.png)
 
+نفس الجدول مفتوحًا داخل Android Studio والصفوف ظاهرة فيه:
+
+![جدول expenses داخل Android Studio](screenshots/database_studio.png)
+
 ## طريقة التشغيل
 
 1. افتح المشروع في Android Studio.
